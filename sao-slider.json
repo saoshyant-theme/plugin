@@ -1,7 +1,7 @@
 {
 	"name": "Sao Slider",
-	"version": "1.1",
-	"download_url": "https://github.com/saoshyant-theme/sao-page-builder/archive/master.zip",
+	"version": "1.0",
+	"download_url": "https://github.com/saoshyant-theme/sao-slider/archive/master.zip",
 	"last_updated": "2017-01-01 16:17:00",
 	"upgrade_notice": "Here's why you should upgrade...",
 
@@ -14,9 +14,9 @@
 		"custom_section": "This is a custom section labeled 'Custom Section'."
 	},
 
-	"rating": 90,
-	"num_ratings": 123,
+	"rating": 0,
+	"num_ratings": 0,
 
-	"downloaded": 1234,
-	"active_installs": 12345
+	"downloaded": 0,
+	"active_installs": 0
 }
