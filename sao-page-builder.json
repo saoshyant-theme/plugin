@@ -10,7 +10,8 @@
 	"sections": {
 		"description": "(Required) Sao Page Builder.",
 		"installation": "(Recommended) Installation instructions.",
-		
+ 		"changelog": "(Recommended) Changelog. <p>This section will be displayed by default when the user clicks 'View version 1.0.0 details'.</p>",
+		"custom_section": ""
 	},
 
 	"rating": 90,
