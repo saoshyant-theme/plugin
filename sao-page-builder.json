@@ -1,17 +1,16 @@
 {
 	"name": "Sao Page Builder",
 	"version": "1.0",
-	"download_url": "https://github.com/saoshyant-theme/sao-page-builder/archive/master.zip",
+	"download_url": "https://saoshyant.ml/plugins/sao-page-builder.zip",
 	"last_updated": "2017-01-01 16:17:00",
 	"upgrade_notice": "Here's why you should upgrade...",
 
-	"author": "Janis Elsts",
+	"author": "Saoshyant",
 
 	"sections": {
-		"description": "(Required) Plugin description. Basic HTML can be used in all sections.",
+		"description": "(Required) Sao Page Builder.",
 		"installation": "(Recommended) Installation instructions.",
-		"changelog": "(Recommended) Changelog. <p>This section will be displayed by default when the user clicks 'View version x.y.z details'.</p>",
-		"custom_section": "This is a custom section labeled 'Custom Section'."
+		
 	},
 
 	"rating": 90,
