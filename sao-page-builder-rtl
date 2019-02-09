@@ -1,0 +1,22 @@
+{
+	"name": "Sao Page Builder",
+	"version": "1.0",
+	"download_url": "https://saoshyant-wp.ir/plugins/sao-page-builder.zip",
+	"last_updated": "2017-01-01 16:17:00",
+	"upgrade_notice": "Here's why you should upgrade...",
+
+	"author": "Saoshyant",
+
+	"sections": {
+		"description": "(Required) Sao Page Builder.",
+		"installation": "(Recommended) Installation instructions.",
+ 		"changelog": "(Recommended) Changelog. <p>This section will be displayed by default when the user clicks 'View version 1.0.0 details'.</p>",
+		"custom_section": ""
+	},
+
+	"rating": 90,
+	"num_ratings": 0,
+
+	"downloaded": 0,
+	"active_installs": 0
+}
