@@ -1,16 +1,14 @@
 {
-	"name": "Sao Page Builder",
+	"name": "صفحه ساز سئو",
 	"version": "1.0",
 	"download_url": "https://saoshyant-wp.ir/plugins/sao-page-builder.zip",
 	"last_updated": "2017-01-01 16:17:00",
-	"upgrade_notice": "Here's why you should upgrade...",
+	"upgrade_notice": "",
 
 	"author": "Saoshyant",
 
 	"sections": {
-		"description": "(Required) Sao Page Builder.",
-		"installation": "(Recommended) Installation instructions.",
- 		"changelog": "(Recommended) Changelog. <p>This section will be displayed by default when the user clicks 'View version 1.0.0 details'.</p>",
+		"description": " سازنده صفحه با استفاده از کشیدن و رها کردن  برای ورد پرس",
 		"custom_section": ""
 	},
 
