@@ -1,5 +1,4 @@
-
- {
+{
 	"name": "Sao Game Data",
 	"version": "1.0",
 	"download_url": "https://saoshyant.ml/plugins/sao-game-data.zip",
@@ -9,9 +8,8 @@
 	"author": "Saoshyant",
 
 	"sections": {
-		"description": "(Required) Sao Game Data.",
-		"installation": " ",
- 		"custom_section": ""
+		"description": "(Required) Sao Game Data." 
+		 
 	},
 
 	"rating": 90,
