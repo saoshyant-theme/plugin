@@ -1,6 +1,6 @@
 {
 	"name": "Sao Page Builder",
-	"version": "1.1",
+	"version": "1.2",
 	"download_url": "https://saoshyant.ml/plugins/sao-page-builder.zip",
 	"last_updated": "2017-01-01 16:17:00",
 	"upgrade_notice": "Here's why you should upgrade...",
@@ -10,7 +10,7 @@
 	"sections": {
 		"description": "(Required) Sao Page Builder.",
 		"installation": " ",
- 		"changelog": "Update 1.1",
+ 		"changelog": "Update 1.2",
 		"custom_section": ""
 	},
 
