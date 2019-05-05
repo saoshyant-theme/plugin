@@ -1,0 +1,21 @@
+{
+  "name": "ZShop Framework",
+	"version": "1.0",
+	"download_url": "https://saoshyant.ml/plugins/zshop-framework.zip",
+	"last_updated": "2017-01-01 16:17:00",
+	"upgrade_notice": " ",
+
+	"author": "Saoshyant",
+
+	"sections": {
+		"description": "(Required) ZShop Framework" 
+		 
+	},
+
+	"rating": 90,
+	"num_ratings": 0,
+
+	"downloaded": 0,
+	"active_installs": 0
+ 
+}
