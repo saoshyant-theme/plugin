@@ -1,0 +1,19 @@
+{
+	"name": "فریمورک زدشاپ",
+	"version": "1.0",
+	"download_url": "http://saoshyant-wp.ir/plugins/zshop-framework.zip",
+	"last_updated": "2017-01-01 16:17:00",
+	"upgrade_notice": "",
+
+	"author": "Saoshyant",
+
+	"sections": {
+		"description": "افزونه مخصوص قالب زدشاپ"
+ 	},
+
+	"rating": 0,
+	"num_ratings": 0,
+
+	"downloaded": 0,
+	"active_installs": 0
+}
